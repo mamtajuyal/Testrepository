@@ -2,6 +2,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /*This is a Browser Class*/
+
+test data
 public class browser {
 
 	public static void main(String[] args)
