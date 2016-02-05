@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-continuation-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-http-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-jmx-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-security-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-server-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-servlet-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-servlets-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/selenium-java-2.48.2-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/websocket-api-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/websocket-client-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/websocket-common-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/bckup/testing/Jar Files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
